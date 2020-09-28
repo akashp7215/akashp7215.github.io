@@ -1,0 +1,62 @@
+/* contact.html */
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    background-color: rosybrown;
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+a.navbar-brand {
+    font-size: 30px;
+}
+
+nav {
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    margin-top: 5%;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ul {
+    font-size: 20px;
+}
+
+/* CSS for lables */
+.form-row {
+    font-family: fantasy;
+    font-size: 20px;
+    color: darkolivegreen;
+}
+
+#submitBtn {
+    background-color: darkolivegreen;
+    outline: darkolivegreen;
+    border-color: darkslategray;
+}
+
+/* Footer CSS */
+footer {
+    font-weight: bolder;
+    color: black;
+    clear: both;
+    bottom: 0%;
+    margin-top: 25%;
+}
+
+#mm {
+    text-align: center;
+    font-family: fantasy;
+}
+
+#year {
+    text-align: center;
+    font-size: 10px;
+}

@@ -1,2 +1,3 @@
-# akashp7215.github.io
-My First Personal Website
+CSS and Bootstrap Homework
+
+Using Bootstrap CSS Framework to create a mobile responsive portfolio.
